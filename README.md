@@ -24,52 +24,20 @@
       <br />
       <h2 align="center">My Social Connections:</h2>
       <p align="center">
-        <a href="https://linkedin.com" target="blank"
+        <a href="http://qq.com" target="blank"
           ><img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            src="https://th.bing.com/th/id/OIP.6X1TACOqscXRkKvsTDkK3AHaE8?w=233&h=180&c=7&r=0&o=5&pid=1.7"
             alt="gopalsaraf"
-            height="30"
-            width="40"
-        /></a>
-        <a href="https://instagram.com" target="blank"
-          ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="gopalsaraf20"
             height="30"
             width="40"
         /></a>
         <a href="https://t.telegram.ind.in" target="blank"
           ><img
             align="center"
-            src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png"
+            src="https://th.bing.com/th/id/OIP.pREsqBlKQeyMTvd15NQ6PgHaGj?w=222&h=197&c=7&r=0&o=5&pid=1.7"
             height="30"
             width="30"
-        /></a>
-        <a href="https://www.hackerrank.com" target="blank"
-          ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="gopalsaraf02"
-            height="30"
-            width="40"
-        /></a>
-        <a href="https://stackoverflow.com" target="blank"
-          ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="17942448"
-            height="30"
-            width="40"
-        /></a>
-        <a href="https://www.codechef.com" target="blank"
-          ><img
-            align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-            alt="gopalsaraf"
-            height="30"
-            width="40"
         /></a>
       </p>
       <br />
